@@ -1,0 +1,2 @@
+# IPL-RealtimeAuctionSystem
+This project is about real time auction management system. It is a management system that manages the auction among 4 teams. It shows the real time list of players and team with the highest bidder gets the respective player. If the team owner runs out of money, he can no longer take part in the auction and if the player is not bought by any team he goes to the unsold queue.
